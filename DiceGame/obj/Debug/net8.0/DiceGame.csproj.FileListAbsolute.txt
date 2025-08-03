@@ -3,3 +3,13 @@ C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.Assembly
 C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
 C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
 C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.sourcelink.json
+C:\Users\nateh\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.exe
+C:\Users\nateh\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\nateh\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\nateh\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.dll
+C:\Users\nateh\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.dll
+C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\nateh\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
