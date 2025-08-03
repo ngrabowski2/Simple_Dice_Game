@@ -5,8 +5,6 @@ Game currentGame = new Game();
 Game.Start();
 //Roll Dice
 Die rolledDie = new Die();
-//DEBUG:
-Console.WriteLine("DEBUG- rolled number: " + rolledDie.RolledNumber);
 //User turn
 while (currentGame.RemainingTries > 0)
 {
