@@ -20,6 +20,11 @@ public class Game
 	}
 	public static void Start() => Console.WriteLine("Dice rolled. Guess what number it shows in 3 tries");
 
-    public void TakeTurn() => RemainingTries--;
+	public bool TakeTurn(Turn turn)
+	{
+		bool result = turn.CheckGuess();
+		if (turn.ParsedGuess != -1) _remainingTries--;
+		return result;
+	}
 	public static void End() => Console.ReadKey();
 }
