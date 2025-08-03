@@ -2,20 +2,21 @@
 using System.Reflection.Metadata.Ecma335;
 //Start Game
 Game currentGame = new Game();
-Game.Start();
+currentGame.Start();
 //Roll Dice
 Die rolledDie = new Die();
 //User turn
 while (currentGame.RemainingTries > 0)
 {
+    //Prompt user
     Console.WriteLine("Enter A Number: ");
     string guess = Console.ReadLine();
+    //Begin turn
     Turn currentTurn = new Turn(guess, rolledDie.RolledNumber);
 
+    //Check if user won
     if (currentGame.TakeTurn(currentTurn)) break;
-
-    if (currentTurn.ParsedGuess == -1) continue;
-
+    //Check if user lost
     if (currentGame.RemainingTries == 0) Console.WriteLine("You Lose");
 
 }
